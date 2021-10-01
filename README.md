@@ -1,5 +1,4 @@
 # Hello-World
-my first repository
  Hi, I’m @sjkdewolf
 - I live in Brugge in Belgium
 - I am retired and 70 years old
